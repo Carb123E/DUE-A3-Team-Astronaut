@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Shared/Start.unity
+    guid: 5dc7835b75fcb764ea25e4bbb659b44c
+  - enabled: 1
+    path: Assets/HongboHan/HongboHan.unity
+    guid: 7af07c2516e46ab44bd921afca5031a4
+  - enabled: 1
+    path: Assets/LihuaXi/LihuaXi.unity
+    guid: e42b4ec5dee01374dac3dd5007a2b128
+  - enabled: 1
+    path: Assets/YimingLi/YimingLi.unity
+    guid: 3a7fae7730558744a87c69378a8aa5bb
+  - enabled: 1
+    path: Assets/JiaxuTian/JiaxuTian.unity
+    guid: 60bc4c0d7fa81944290d3eaf8d44a851
   m_configObjects: {}
