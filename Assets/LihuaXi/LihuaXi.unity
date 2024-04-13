@@ -2720,7 +2720,7 @@ MonoBehaviour:
     S: Walk backward                                                               
     A: turn left                                                          D:turn
     right                                                       Shift: Run                                                       
-    Space:Jump                                                  Right"
+    Space:Jump                                                  Right mouse button:"
   helpTextRightStr: 'Instructions:                                                          
     An astronaut has come to a strange planet to collect treasures, and you need
     to control the astronauts to collect enough treasure within the time limit.'
