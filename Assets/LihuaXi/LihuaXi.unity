@@ -2720,7 +2720,7 @@ MonoBehaviour:
     S: Walk backward                                                               
     A: turn left                                                          D:turn
     right                                                       Shift: Run                                                       
-    Space:Jump                                                  Right"
+    Space:Jump                                                  Right mouse button:"
   helpTextRightStr: 'Instructions:                                                          
     An astronaut has come to a strange planet to collect treasures, and you need
     to control the astronauts to collect enough treasure within the time limit.'
@@ -22913,6 +22913,7 @@ Transform:
   - {fileID: 1178549298}
   - {fileID: 1278459615}
   - {fileID: 733928943}
+  - {fileID: 1904959298}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -39743,6 +39744,104 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 3a1ec7e4a684fb64989d922421a20cd5, type: 3}
   m_PrefabInstance: {fileID: 1904858755}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1904959297
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 926059324}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_Name
+      value: Radiant-Cyan-Reflective (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_TagString
+      value: Item
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+--- !u!4 &1904959298 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+  m_PrefabInstance: {fileID: 1904959297}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1904959299 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 4fad788a7aa9f9e4ca09d6775b05bfa8, type: 3}
+  m_PrefabInstance: {fileID: 1904959297}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1904959300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904959299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87f73390a4f84dd99d8e79348f9e3d1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  score: 1
+--- !u!64 &1904959301
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904959299}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: c7c5c288fa3e91149abed4a9021b48df, type: 3}
 --- !u!144 &1910999533
 CharacterJoint:
   m_ObjectHideFlags: 0
