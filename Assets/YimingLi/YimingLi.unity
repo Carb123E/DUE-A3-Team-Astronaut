@@ -40763,10 +40763,7 @@ PrefabInstance:
         collect 13 items within 37s.
 
         Press ESC to exit the help and start
-        the game.
-
-
-        Wish you'
+        the game.'
       objectReference: {fileID: 0}
     - target: {fileID: 1374768540, guid: aea568d7341b6514e83c407fe7334edf, type: 3}
       propertyPath: m_AnchorMax.y
