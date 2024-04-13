@@ -42014,7 +42014,7 @@ MonoBehaviour:
     left                                 S: Walk backward                                                               
     D: Move to the right                                           W+Shift: Run forward                                          
     Space: Jump                                                 Esc: Call out the
-    mouse'
+    mouse!                   '
   helpTextRightStr: 'Auther: Hongbo Han                                                  
     The game is introduced: Hero astronauts lack materials in their hometown. He
     came to different planets to collect materials. When you collect seven materials
@@ -42023,7 +42023,8 @@ MonoBehaviour:
   winTextStr: You Win!!!
   winTextColor: {r: 0, g: 0, b: 0, a: 1}
   loseTextColor: {r: 0, g: 0, b: 0, a: 1}
-  loseTextStr: You Lose!!!
+  loseTextStr: 'You fail !!!                                                              
+    Tip: You can try running up to win the game.'
   nextLevelStr: LihuaXi
 --- !u!1 &932397302
 GameObject:
