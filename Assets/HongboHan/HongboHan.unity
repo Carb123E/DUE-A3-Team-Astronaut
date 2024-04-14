@@ -42018,7 +42018,7 @@ MonoBehaviour:
     The game is introduced: Hero astronauts lack materials in their hometown. He
     came to different planets to collect materials. When you collect seven materials
     in 37 seconds, you win, otherwise you will fail in this level.                                                               
-    Pressing the right'
+    Pressing the right mouse button for'
   resultText: {fileID: 918105044}
   winTextStr: You Win!!!
   winTextColor: {r: 0.13069598, g: 0.8396226, b: 0.16973399, a: 1}
