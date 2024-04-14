@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 119908547}
-  m_IndirectSpecularColor: {r: 0.019136017, g: 0.009631307, b: 0.039147314, a: 1}
+  m_IndirectSpecularColor: {r: 0.14545462, g: 0.0941231, b: 0.21724021, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -92250,7 +92250,8 @@ MonoBehaviour:
     W+Shift: Dash                                         Move the mouse left and
     right to control the perpective                                         Press
     ESC to display the mouse cursor'
-  helpTextRightStr: In this level, you need to collect 13 items with in 37s.                                                                          
+  helpTextRightStr: Press and hold the right mouse button to switch to Shoulder Surfing                                                                   
+    In this level, you need to collect 13 items with in 37s.                                                                          
     Press ESC to exit the help and Start the game.                                                       
     Wish you get a good achievement!
   resultText: {fileID: 74374176}

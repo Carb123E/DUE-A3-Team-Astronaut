@@ -30,9 +30,9 @@ namespace Doozy.Runtime.UIDesigner.Components
             set => TargetSize = value;
         }
 
-        protected override void Reset()
+        protected void Reset()
         {
-            base.Reset();
+//            base.Reset();
 
             ReferenceSize = rectTransform.rect.size;
             TargetSize = ReferenceSize;
