@@ -92251,7 +92251,7 @@ MonoBehaviour:
     right to control the perpective Hold down alt to display the mouse cursor'
   helpTextRightStr: In this level, you need to collect 13 items with in 37s.                                                                          
     Press ESC to exit the help and Start the game.                                   
-    Wish you get a good achievement!
+    Wish you
   resultText: {fileID: 74374176}
   winTextStr: Congratulations!!!
   winTextColor: {r: 1, g: 0, b: 0, a: 1}
