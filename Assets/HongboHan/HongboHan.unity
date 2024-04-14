@@ -42009,8 +42009,8 @@ MonoBehaviour:
   homePage: {fileID: 21300000, guid: c6efb31ebd71a144183f32b63cdc516c, type: 3}
   helpTextLeft: {fileID: 1596110668}
   helpTextRight: {fileID: 1596110667}
-  helpTextLeftStr: 'W: Walk forWard                                  A: Move to the
-    left                                 S: Walk backward                                                               
+  helpTextLeftStr: '                                  Pressing the right mouse button
+    for a long time will                                S: Walk backward                                                               
     D: Move to the right                                           W+Shift: Run forward                                          
     Space: Jump                                                 Esc: Call out the
     mouse!                                                         Pressing the right
